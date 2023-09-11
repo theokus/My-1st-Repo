@@ -39,13 +39,13 @@ body {
     padding-bottom: 2rem;
 }
 
-.user-image {
+.user-images {
     width: 200px;
     height: 200px;
     margin-bottom: 2rem;
 }
 
-.user-image img {
+.user-images img {
     width: 100%;
     height: 100%;
     object-fit: cover;

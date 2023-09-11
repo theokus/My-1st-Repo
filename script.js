@@ -12,5 +12,4 @@ const milli = Date.now();
 
 
 currentDayOfWeek.textContent =`${dayOfWeek}`;
-// currentUTCTime.textContent =${hours}:${minutes}:${seconds} ${ampm};
 currentUTCTime.textContent = `${milli}`; 
